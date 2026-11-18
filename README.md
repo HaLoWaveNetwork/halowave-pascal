@@ -1,3 +1,5 @@
+https://youtu.be/-Tf-5PkN3EE
+
 # HaLoWave PitchPulse × Pascal
 
 An order-book-free European Football 1X2 trading terminal built on [Pascal](https://pascal.trade) ([Solana](https://solana.com)) that pairs **1-second continuous Sub-GHz Wi-Fi HaLow (IEEE 802.11ah) stadium weather telemetry** from the [HaLoWave DePIN Network](https://halowave.io) with permissionless builder fee routing (`builder_info`) to reward physical HaLoWave Miner hosts.
